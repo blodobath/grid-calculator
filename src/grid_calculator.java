@@ -5,7 +5,7 @@ public class grid_calculator {
 
 public static void main(String[] args) {
 
-            //网格化计算
+            //网格化计算 Gregify
 
     Scanner scan = new Scanner(System.in);
 
